@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Concise and Not
+title: Concise With More Words
 #email: your-email@domain.com
-description: This site has posts that contain a concise explanation of a technology or concept. It then goes into expansive detail. The concise section is great as a refrence and the descriptive are is meant for deep learning.
+description: This site has posts that contain a concise explanation of a technology or concept. It then goes into expansive detail. The concise section is great as a refrence and the descriptive area is meant for deep learning.
 baseurl: ""
 url: "http://ericjaystevens.github.io"
 twitter_username: ericjaystevens
